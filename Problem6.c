@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
     int sumOfSquares = 0;
     int squareOfSums = 0;
